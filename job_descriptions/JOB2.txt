@@ -1,0 +1,6 @@
+Seeking an AI/NLP Engineer to work on text processing and machine learning projects. Required skills include:
+- Python programming with libraries like spaCy, NLTK, or scikit-learn
+- Experience in text extraction and natural language processing
+- Building AI models and analyzing data
+- Working knowledge of data pipelines and APIs
+- Familiarity with Git and version control

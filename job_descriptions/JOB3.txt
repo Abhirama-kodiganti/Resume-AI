@@ -1,0 +1,10 @@
+Hiring a DevOps Engineer to manage cloud infrastructure and deployment pipelines. Must have:
+- Experience with Docker, Kubernetes, and cloud platforms (AWS/GCP)
+- Setting up CI/CD pipelines
+- Monitoring and logging tools (Prometheus, Grafana)
+- Scripting skills in Python or Bash
+- Understanding of distributed systems and fault tolerance
+
+
+
+

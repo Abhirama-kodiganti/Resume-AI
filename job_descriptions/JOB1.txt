@@ -1,0 +1,6 @@
+We are looking for a Backend Developer with strong experience in Go and RESTful APIs. The candidate should be familiar with:
+- Developing scalable web services
+- Working with databases like PostgreSQL or MySQL
+- Writing unit tests and integration tests
+- Familiarity with Docker and CI/CD pipelines
+- Understanding of distributed systems and fault-tolerant architecture

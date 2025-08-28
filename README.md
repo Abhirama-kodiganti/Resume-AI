@@ -20,7 +20,7 @@ An AI-powered tool to extract keywords from job descriptions and match them agai
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/yourusername/Resume-AI.git
+git clone https://github.com/Abhirama-kodiganti/Resume-AI
 cd Resume-AI
 ```
 
@@ -90,7 +90,7 @@ Resume-AI/
 pip install -r requirements.txt
 
 # Run app
-streamlit run app.py
+streamlit run UI.py
 
 # Export exact versions (optional)
 pip freeze > requirements.txt
